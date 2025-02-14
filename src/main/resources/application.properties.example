@@ -1,4 +1,6 @@
 spring.application.name=Job-Portal
 spring.data.mongodb.database=JobPortal
-spring.data.mongodb.uri=mongodb+srv://shanikr1404:245881404@cluster0.mge2c.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+spring.data.mongodb.uri=mongodb+srv://username:password@cluster0.mge2c.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 spring.data.mongodb.auto-index-creation=true
+
+
